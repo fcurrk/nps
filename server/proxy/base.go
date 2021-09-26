@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"sync"
 
-	"ehang.io/nps/bridge"
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/conn"
-	"ehang.io/nps/lib/file"
+	"fcurrk/nps/bridge"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/conn"
+	"fcurrk/nps/lib/file"
 	"github.com/astaxie/beego/logs"
 )
 

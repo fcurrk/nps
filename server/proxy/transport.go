@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"syscall"
 
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/conn"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/conn"
 )
 
 func HandleTrans(c *conn.Conn, s *TunnelModeServer) error {

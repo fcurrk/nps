@@ -1,7 +1,7 @@
 package bridge
 
 import (
-	"ehang.io/nps-mux"
+	"fcurrk/nps-mux"
 	"encoding/binary"
 	"errors"
 	"fmt"
@@ -12,13 +12,13 @@ import (
 	"sync"
 	"time"
 
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/conn"
-	"ehang.io/nps/lib/crypt"
-	"ehang.io/nps/lib/file"
-	"ehang.io/nps/lib/version"
-	"ehang.io/nps/server/connection"
-	"ehang.io/nps/server/tool"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/conn"
+	"fcurrk/nps/lib/crypt"
+	"fcurrk/nps/lib/file"
+	"fcurrk/nps/lib/version"
+	"fcurrk/nps/server/connection"
+	"fcurrk/nps/server/tool"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 )

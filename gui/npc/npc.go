@@ -1,10 +1,10 @@
 package main
 
 import (
-	"ehang.io/nps/client"
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/daemon"
-	"ehang.io/nps/lib/version"
+	"fcurrk/nps/client"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/daemon"
+	"fcurrk/nps/lib/version"
 	"fmt"
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"

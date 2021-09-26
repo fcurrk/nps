@@ -11,16 +11,16 @@
 	</languages>
 
 	<lang id="title-admin">
-		<zh-CN>NPS - 管理</zh-CN>
-		<en-US>NPS Admin</en-US>
+		<zh-CN>管理</zh-CN>
+		<en-US>Admin</en-US>
 	</lang>
 	<lang id="title-login">
-		<zh-CN>NPS - 登录</zh-CN>
-		<en-US>NPS login</en-US>
+		<zh-CN>登录</zh-CN>
+		<en-US>login</en-US>
 	</lang>
 	<lang id="title-register">
-		<zh-CN>NPS - 注册</zh-CN>
-		<en-US>NPS Register</en-US>
+		<zh-CN>注册</zh-CN>
+		<en-US>Register</en-US>
 	</lang>
 
 	<lang id="scheme-host">
@@ -246,12 +246,12 @@
 		<en-US>Flow limit</en-US>
 	</lang>
 	<lang id="word-go">
-		<zh-CN>进入</zh-CN>
+		<zh-CN>开始</zh-CN>
 		<en-US>go</en-US>
 	</lang>
 	<lang id="word-help">
-		<zh-CN>使用说明</zh-CN>
-		<en-US>Manual</en-US>
+		<zh-CN>联系站长</zh-CN>
+		<en-US>Contact us</en-US>
 	</lang>
 	<lang id="word-host">
 		<zh-CN>主机</zh-CN>
@@ -384,7 +384,7 @@
 		<en-US>Rate limit</en-US>
 	</lang>
 	<lang id="word-readmore">
-		<zh-CN>更多说明</zh-CN>
+		<zh-CN>联系站长</zh-CN>
 		<en-US>Read more</en-US>
 	</lang>
 	<lang id="word-register">
@@ -540,8 +540,8 @@
 		<en-US>Username of Web login</en-US>
 	</lang>
 	<lang id="word-welcome">
-		<zh-CN>欢迎使用</zh-CN>
-		<en-US>Welcome to use</en-US>
+		<zh-CN>欢迎光临</zh-CN>
+		<en-US>Welcome to </en-US>
 	</lang>
 	<lang id="word-yes">
 		<zh-CN>是</zh-CN>
@@ -643,8 +643,8 @@
 		<en-US>Only socks5 , web, HTTP forward proxy</en-US>
 	</lang>
 	<lang id="info-register">
-		<zh-CN>注册到 NPS</zh-CN>
-		<en-US>Register to NPS</en-US>
+		<zh-CN>注册</zh-CN>
+		<en-US>Register</en-US>
 	</lang>
 	<lang id="info-suchashost">
 		<zh-CN>例如 a.proxy.com</zh-CN>

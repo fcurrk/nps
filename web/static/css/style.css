@@ -1185,6 +1185,7 @@ body.mini-navbar .navbar-default .nav > li > .nav-second-level li a {
 }
 .footer {
   transition: margin 0s;
+  text-align: center;
 }
 .pace-done .navbar-static-side,
 .pace-done .nav-header,
@@ -4938,6 +4939,10 @@ code {
   border-image: none;
   border-style: solid;
   border-width: 1px;
+  margin: 0 auto;
+  text-align: center;
+  width:95%;
+  position:relative;
 }
 .ibox-footer {
   color: inherit;
@@ -5735,13 +5740,13 @@ body.mini-navbar.fixed-sidebar .logo-element {
 }
 .logo-name {
   color: #e6e6e6;
-  font-size: 180px;
+  font-size: 30px;
   font-weight: 800;
   letter-spacing: -10px;
   margin-bottom: 0;
 }
 .middle-box h1 {
-  font-size: 170px;
+  font-size: 30px;
 }
 .wrapper .middle-box {
   margin-top: 140px;

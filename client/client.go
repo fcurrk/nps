@@ -3,7 +3,7 @@ package client
 import (
 	"bufio"
 	"bytes"
-	"ehang.io/nps-mux"
+	"fcurrk/nps-mux"
 	"net"
 	"net/http"
 	"strconv"
@@ -13,10 +13,10 @@ import (
 	"github.com/astaxie/beego/logs"
 	"github.com/xtaci/kcp-go"
 
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/config"
-	"ehang.io/nps/lib/conn"
-	"ehang.io/nps/lib/crypt"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/config"
+	"fcurrk/nps/lib/conn"
+	"fcurrk/nps/lib/crypt"
 )
 
 type TRPClient struct {

@@ -7,11 +7,11 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"ehang.io/nps/bridge"
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/conn"
-	"ehang.io/nps/lib/file"
-	"ehang.io/nps/server/connection"
+	"fcurrk/nps/bridge"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/conn"
+	"fcurrk/nps/lib/file"
+	"fcurrk/nps/server/connection"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 )

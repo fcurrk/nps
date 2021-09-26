@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"ehang.io/nps/lib/common"
+	"fcurrk/nps/lib/common"
 	"github.com/astaxie/beego"
 )
 

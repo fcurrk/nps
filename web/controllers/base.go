@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/crypt"
-	"ehang.io/nps/lib/file"
-	"ehang.io/nps/server"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/crypt"
+	"fcurrk/nps/lib/file"
+	"fcurrk/nps/server"
 	"github.com/astaxie/beego"
 )
 

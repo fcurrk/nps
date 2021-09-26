@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"ehang.io/nps/lib/common"
+	"fcurrk/nps/lib/common"
 	"github.com/astaxie/beego"
 	"github.com/shirou/gopsutil/v3/cpu"
 	"github.com/shirou/gopsutil/v3/load"

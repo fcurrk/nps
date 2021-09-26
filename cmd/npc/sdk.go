@@ -2,9 +2,9 @@ package main
 
 import (
 	"C"
-	"ehang.io/nps/client"
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/version"
+	"fcurrk/nps/client"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/version"
 	"github.com/astaxie/beego/logs"
 )
 

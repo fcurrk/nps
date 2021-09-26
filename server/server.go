@@ -1,7 +1,7 @@
 package server
 
 import (
-	"ehang.io/nps/lib/version"
+	"fcurrk/nps/lib/version"
 	"errors"
 	"math"
 	"os"
@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"ehang.io/nps/bridge"
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/file"
-	"ehang.io/nps/server/proxy"
-	"ehang.io/nps/server/tool"
+	"fcurrk/nps/bridge"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/file"
+	"fcurrk/nps/server/proxy"
+	"fcurrk/nps/server/tool"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 	"github.com/shirou/gopsutil/v3/cpu"

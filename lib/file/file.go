@@ -10,8 +10,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"ehang.io/nps/lib/common"
-	"ehang.io/nps/lib/rate"
+	"fcurrk/nps/lib/common"
+	"fcurrk/nps/lib/rate"
 )
 
 func NewJsonDb(runPath string) *JsonDb {
