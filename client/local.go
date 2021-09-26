@@ -1,7 +1,7 @@
 package client
 
 import (
-	"fcurrk/nps-mux"
+	"ehang-io/nps-mux"
 	"errors"
 	"net"
 	"net/http"
