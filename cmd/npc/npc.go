@@ -67,7 +67,7 @@ func main() {
 	svcConfig := &service.Config{
 		Name:        "Npc",
 		DisplayName: "nps client",
-		Description: "npc Intranet penetration client.",
+		Description: "nps Intranet penetration client.",
 		Option:      options,
 	}
 	if !common.IsWindows() {
